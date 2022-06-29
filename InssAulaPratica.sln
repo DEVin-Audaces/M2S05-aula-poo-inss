@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib.InssAula.Service", "Lib.InssAula.Service\Lib.InssAula.Service.csproj", "{6546A861-1C12-4AC9-8A6C-A59F7B1AB4C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib.InssAula.Domain", "Lib.InssAula.Domain\Lib.InssAula.Domain.csproj", "{B0257960-78CB-4530-BCB9-9372D7C65815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6546A861-1C12-4AC9-8A6C-A59F7B1AB4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6546A861-1C12-4AC9-8A6C-A59F7B1AB4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6546A861-1C12-4AC9-8A6C-A59F7B1AB4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6546A861-1C12-4AC9-8A6C-A59F7B1AB4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0257960-78CB-4530-BCB9-9372D7C65815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0257960-78CB-4530-BCB9-9372D7C65815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0257960-78CB-4530-BCB9-9372D7C65815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0257960-78CB-4530-BCB9-9372D7C65815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5554C8C-C127-48CC-AD57-09100B620E16}
+	EndGlobalSection
+EndGlobal
