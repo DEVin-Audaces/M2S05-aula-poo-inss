@@ -4,6 +4,6 @@ namespace Lib.InssAula.Domain.Interfaces
 {
     public interface ISalarioService
     {
-        DescontoSalario CalcularInss(Salario salario);
+        ServiceResposta<DescontoSalario> CalcularInss(Salario salario);
     }
 }

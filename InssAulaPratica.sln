@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib.InssAula.Service", "Lib
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib.InssAula.Domain", "Lib.InssAula.Domain\Lib.InssAula.Domain.csproj", "{B0257960-78CB-4530-BCB9-9372D7C65815}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console.InssAula.AppConsole", "Console.InssAula.AppConsole\Console.InssAula.AppConsole.csproj", "{6E2D01B8-7F60-4C36-9599-8C66D8CD82E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B0257960-78CB-4530-BCB9-9372D7C65815}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0257960-78CB-4530-BCB9-9372D7C65815}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0257960-78CB-4530-BCB9-9372D7C65815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2D01B8-7F60-4C36-9599-8C66D8CD82E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2D01B8-7F60-4C36-9599-8C66D8CD82E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2D01B8-7F60-4C36-9599-8C66D8CD82E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2D01B8-7F60-4C36-9599-8C66D8CD82E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

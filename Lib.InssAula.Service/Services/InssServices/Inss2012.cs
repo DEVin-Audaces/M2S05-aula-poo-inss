@@ -11,12 +11,12 @@ namespace Lib.InssAula.Service.Services.InssServices
 
             if (salario <= 1000m)
             {
-                descontoSalario.ValorDesconto = salario * (7 / 100);
+                descontoSalario.ValorDesconto = salario * 0.07m;
                 descontoSalario.SalarioComDesconto = salario - descontoSalario.ValorDesconto;
             }
             else if (salario <= 1500m)
             {
-                descontoSalario.ValorDesconto = salario * (8 / 100);
+                descontoSalario.ValorDesconto = salario * 0.08m;
                 descontoSalario.SalarioComDesconto = salario - descontoSalario.ValorDesconto;
             }
             else
